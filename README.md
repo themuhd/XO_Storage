@@ -1,4 +1,4 @@
-# XO_Store
+# XO_Storage
 
 
 # Blockchain-based-File-Sharing-System
